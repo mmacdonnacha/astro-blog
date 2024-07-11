@@ -2,7 +2,7 @@
 title: Hello World
 author: Michael McDonagh
 pubDatetime: 2024-07-11T22:06:31Z
-slug: /astro-blog/Hello World
+slug: Hello World
 featured: false
 draft: false
 tags:
